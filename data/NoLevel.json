@@ -1,16 +1,16 @@
 {
-    "id": 123456789,
-    "name": "No Levels Yet",
-    "author": "LevelUploader",
-    "creators": ["No One"],
+    "id": 152085510,
+    "name": "Silent Acopolis",
+    "author": "EchoGMD",
+    "creators": ["EchoGMD"],
     "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=f3WFSL36oZo",
-    "percentToQualify": 0,
-    "password": "Not Copyable",
+    "verification": "https://www.youtube.com/watch?v=IvUkcfMWhQY",
+    "percentToQualify": 100,
+    "password": "None",
     "records": [
         {
             "user": "Verifier",
-            "link": "https://www.youtube.com/watch?v=f3WFSL36oZo",
+            "link": "https://www.youtube.com/watch?v=IvUkcfMWhQY",
             "percent": 100,
             "hz": 360
         }
