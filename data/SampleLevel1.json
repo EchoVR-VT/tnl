@@ -1,16 +1,16 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
+    "name": "No Levels Yet",
     "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
+    "creators": ["No One"],
     "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "verification": "https://www.youtube.com/watch?v=f3WFSL36oZo",
+    "percentToQualify": 0,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "No One",
+            "link": "https://www.youtube.com/watch?v=f3WFSL36oZo",
             "percent": 100,
             "hz": 360
         }
