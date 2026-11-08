@@ -9,6 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
+            "user": "Verifier",
+            "link": "https://www.youtube.com/watch?v=f3WFSL36oZo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
